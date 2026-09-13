@@ -9,7 +9,7 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- 大家好，我是 soeibot ，来自广东汕头🗻
+- 大家好，我是 Apocalypse ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
 - 同时研究网络安全、密码学、逆向工程、全栈开发 👨‍💻
 - 对数据结构与算法、coding、底层计算机感兴趣 🚀
